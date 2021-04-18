@@ -1,0 +1,154 @@
+/* Envato Template Kits Custom Styles
+ * Apply to the Advanced tab of the element it affects
+ * Illustrations by Humaaans
+ */
+.envato-kit-175-slide .slick-slide-bg.elementor-ken-out, .envato-kit-175-slide .slick-slide-bg.elementor-ken-in{
+transform: scale(1.2);
+}
+.envato-kit-175-slide .slick-slider .slick-track{
+	overflow: visible !important;
+}
+ /* List Style with icon BG */
+.envato-kit-175-list-style-light .elementor-icon-list-icon {
+		width: 50px !important;
+}
+
+.envato-kit-175-list-style-light .elementor-icon-list-icon i {
+		padding: 0.75em;
+		border-radius: 50%;
+		background-color: #F5F7FF;
+}
+
+.envato-kit-175-list-style-extra .elementor-icon-list-icon {
+		width: 50px !important;
+}
+
+.envato-kit-175-list-style-extra .elementor-icon-list-icon i {
+		padding: 0.75em;
+		border-radius: 50%;
+		background-color: #FFB200;
+}
+
+.envato-kit-175-list-style-dark .elementor-icon-list-icon {
+		width: 50px !important;
+}
+
+.envato-kit-175-list-style-dark .elementor-icon-list-icon i {
+		padding: 0.75em;
+		border-radius: 50%;
+		background-color: #3235D8;
+}
+/* Accordion shadow*/
+.envato-kit-175-accordion-style .elementor-accordion .elementor-accordion-item {
+		margin: 10px 0;
+		border-radius: 20px;
+		box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
+}
+
+.envato-kit-175-accordion-style .elementor-accordion .elementor-accordion-item:first-child {
+		margin-top: 0;
+}
+
+.envato-kit-175-accordion-style .elementor-accordion .elementor-accordion-item .elementor-active {
+		margin-bottom: 30px;
+}
+
+.envato-kit-175-accordion-style .elementor-accordion .elementor-accordion-item .elementor-tab-title {
+		margin-bottom: 0;
+}
+
+.envato-kit-175-accordion-style .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active {
+		padding-bottom: 0;
+}
+
+.envato-kit-175-accordion-style2 .elementor-accordion .elementor-accordion-item {
+		margin: 30px 0;
+		border: 10px solid #F5F7FF !important;
+		border-radius: 20px;
+}
+
+.envato-kit-175-accordion-style2 .elementor-accordion .elementor-accordion-item:first-child {
+		margin-top: 0;
+}
+
+.envato-kit-175-accordion-style2 .elementor-accordion .elementor-accordion-item .elementor-active {
+		margin-bottom: 30px;
+}
+
+.envato-kit-175-accordion-style2 .elementor-accordion .elementor-accordion-item .elementor-tab-title {
+		margin-bottom: 0;
+}
+
+.envato-kit-175-accordion-style2 .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active {
+		padding-bottom: 0;
+}
+
+
+.envato-kit-175-img-box-style .elementor-image-box-title {
+		margin-top: 0;
+}
+
+.envato-kit-175-icon-box-style .elementor-icon-box-title {
+		margin: 0;
+}
+/* Left-Aligned Pricing Tables */
+.envato-kit-175-price-style .elementor-price-table {
+		text-align: left;
+}
+
+.envato-kit-175-price-style .elementor-price-table .elementor-price-table__price {
+		justify-content: start;
+}
+
+
+.envato-kit-175-price-style .elementor-price-table__features-list {
+		text-align: left !important;
+}
+
+.envato-kit-175-price-style .elementor-price-table .elementor-price-table__features-list li .elementor-price-table__feature-inner  {
+		margin-left: 0;
+		margin-right: 0;
+}
+
+.envato-kit-175-price-style .elementor-price-table__feature-inner i {
+		font-size: 1em;
+		font-weight: 100;
+		padding: 0.45em;
+		border-radius: 50%;
+		background-color: #f4f4f4;
+	color: #ff4935 !important;
+}
+
+.envato-kit-175-price-style-extra .elementor-price-table {
+		text-align: left;
+}
+
+.envato-kit-175-price-style-extra .elementor-price-table .elementor-price-table__price {
+		justify-content: start;
+}
+
+.envato-kit-175-price-style-extra .elementor-price-table__features-list {
+		text-align: left !important;
+}
+
+.envato-kit-175-price-style-extra .elementor-price-table .elementor-price-table__features-list li .elementor-price-table__feature-inner  {
+		margin-left: 0;
+		margin-right: 0;
+}
+
+.envato-kit-175-price-style-extra .elementor-price-table__feature-inner i {
+		font-size: 1em;
+		font-weight: 100;
+		padding: 0.45em;
+		border-radius: 50%;
+		background-color: #f4f4f4;
+}
+
+.envato-kit-175-row-hover-style .elementor-column-wrap .elementor-heading-title {
+		opacity: 0;
+		transition: all .3s ease-in-out; 
+}
+
+.envato-kit-175-row-hover-style .elementor-column-wrap:hover .elementor-heading-title {
+		opacity: 1; 
+}

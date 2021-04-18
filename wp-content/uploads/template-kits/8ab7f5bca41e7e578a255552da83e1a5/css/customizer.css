@@ -1,0 +1,8 @@
+.envato-kit-111-skew .elementor-button-link,
+.envato-kit-111-skew input,
+.envato-kit-111-skew .elementor-button{
+	transform: skew(-30deg);
+}
+.envato-kit-111-skew .elementor-button-text{
+	transform: skew(30deg);
+}
